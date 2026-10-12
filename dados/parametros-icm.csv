@@ -1,0 +1,8 @@
+﻿Parâmetro;Valor;Observação
+Peso IP;0.7;Índice de Pavimentação
+Peso IC;0.3;Índice de Conservação
+Bom;< 30;ICM menor que 30
+Regular;30 a < 50;30 <= ICM < 50
+Ruim;50 a < 70;50 <= ICM < 70
+Péssimo;>= 70;ICM maior ou igual a 70
+Fonte;Resolução DNIT nº 6/2025;https://www.gov.br/dnit/pt-br/central-de-conteudos/atos-normativos/tipo/resolucoes/resolucao-no-6-2025
